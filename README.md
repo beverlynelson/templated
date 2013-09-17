@@ -1,4 +1,4 @@
 templated
 =========
 
-Series of templlated things 
+Series of templated things 
